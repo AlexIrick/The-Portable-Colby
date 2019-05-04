@@ -12,7 +12,7 @@ The Portable Colby has now been updated to version 2.0 with well over 2x as much
 Now with 30,462 characters and 1,372 lines of code (BATCH)
 
 ## Update 2.0
-(If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
+##### (If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
 ---------------------------------------------------------
 ## What's new:
 - Color configurations now save after you close out.
