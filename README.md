@@ -8,7 +8,7 @@ A Colby-joke generator that comes with computer help.
 ![](chromesucks.gif)
 ###### (Or download it through Internet Explorer)
 
-###### The Portable Colby™ is a Colby-joke generator and now a computer helper.
+##### The Portable Colby™ is a Colby-joke generator and now a computer helper.
 
 The Portable Colby has now been updated to version 2.0 with well over 2x as much code!
 Now with 30,462 characters and 1,372 lines of code (BATCH)
