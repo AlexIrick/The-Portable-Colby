@@ -5,12 +5,13 @@ A Colby-joke generator that comes with computer help.
 ### [See whats new!](https://github.com/AI199864/The-Portable-Colby/blob/master/README.md#current-version)
 
 #### If you are downloading this through Chrome, click the arrow on the right and click "Keep".
+
 ![](chromesucks.gif)
 ###### (Or download it through Internet Explorer)
 
 ##### The Portable Colby™ is a Colby-joke generator and now a computer helper.
 
-The Portable Colby has now been updated to version 2.0 with well over 2x as much code!
+The Portable Colby has now been updated to **version 2.0** with well over 2x as much code!
 Now with 30,462 characters and 1,372 lines of code!
 
 ---------------------------------------------------------
@@ -30,5 +31,5 @@ Now with 30,462 characters and 1,372 lines of code!
 #### And much more!
 ---------------------------------------------------------  
 
-# Previous Verions:
+## Previous Verions:
 ###### There are no previous versions avaliable.
