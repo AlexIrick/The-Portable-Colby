@@ -26,7 +26,6 @@ Now with 60,044 characters and 2,608 lines of code!
 
 
 ## [Update 2.0](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.0%5D%20.exe)
-##### (If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
 
 #### If you are downloading this version through Chrome, click the arrow on the right and click "Keep".
 
