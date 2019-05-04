@@ -12,7 +12,7 @@ Now with 60,044 characters and 2,608 lines of code!
 ---------------------------------------------------------
 # Current Version:
 
-## [Update 2.1](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.0%5D%20.exe)
+## [Update 2.1](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultamite%20%5BVersion%202.1%5D%20.exe)
 ##### (If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
 
 ## What's new:
