@@ -28,7 +28,6 @@ Now with 30,462 characters and 1,372 lines of code (BATCH)
 - Added a new Joke ID system. Joke ID's are displayed on the jokes screen. You can now go to any joke by typing its ID.
 - New implemented option fixes the Google Chrome invisible cursor glitch.
 - New implemented option refreshes Windows (fixes most Windows 10 glitches).
-- HEROBRINE WAS REMOVED 
 #### And much more!
 ---------------------------------------------------------  
 
