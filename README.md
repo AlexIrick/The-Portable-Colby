@@ -20,6 +20,7 @@ Now with 60,044 characters and 2,608 lines of code!
 - Fixed glitch where Chrome flags the file as 'dangerous'.
 
 ---------------------------------------------------------  
+---------------------------------------------------------  
 
 # Previous Verions:
 
