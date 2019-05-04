@@ -5,9 +5,8 @@ A Colby-joke generator that comes with computer help.
 ### [See whats new!](https://github.com/AI199864/The-Portable-Colby/blob/master/README.md#current-version)
 
 #### If you are downloading this through Chrome, click the arrow on the right and click "Keep".
-###### (Or download it through Internet Explorer)
-
 ![](chromesucks.gif)
+###### (Or download it through Internet Explorer)
 
 ###### The Portable Colby™ is a Colby-joke generator and now a computer helper.
 
