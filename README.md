@@ -14,7 +14,7 @@ The Portable Colby has now been updated to **version 2.1.1** with 60,039 charact
 ##### (If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
 
 ## What's new:
-- Fixed Unicode Error ΓÇª
+- Fixed Unicode Error **ΓÇª**
 
 ![](fixedUnicodeError-v2.11.png)
 
