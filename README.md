@@ -32,6 +32,7 @@ Now with 60,044 characters and 2,608 lines of code!
 - Fixed glitch where Chrome flags the file as 'dangerous'.
 
 
+---------------------------------------------------------  
 
 ## [Update 2.0](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.0%5D%20.exe)
 
