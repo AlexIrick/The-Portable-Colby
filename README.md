@@ -19,10 +19,14 @@ Now with 60,044 characters and 2,608 lines of code!
 
 ![](fixedUnicodeError-v2.11.png)
 
----------------------------------------------------------  
+
+
 ---------------------------------------------------------  
 
+
 # Previous Verions:
+
+---------------------------------------------------------  
 
 ## [Update 2.1](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultamite%20%5BVersion%202.1%5D%20.exe)
 
