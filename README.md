@@ -1,6 +1,6 @@
 ## The Portable Colby Ultamite
 A Colby-joke generator that comes with computer help.
-# [**Download the latest version**](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultamite%20%5BVersion%202.1.1%5D%20.exe)
+# [**Download the latest version**]((https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.1.1%5D%20.exe)
 ---------------------------------------------------------
 ### [See whats new!](https://github.com/AI199864/The-Portable-Colby/blob/master/README.md#current-version)
 
@@ -11,11 +11,12 @@ Now with 60,044 characters and 2,608 lines of code!
 
 ---------------------------------------------------------
 # Current Version:
-## [Update 2.1](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.1.1%5D%20.exe)
+## [Update 2.1.1](https://github.com/AI199864/The-Portable-Colby/raw/master/Portable%20Colby%20Ultimate%20%5BVersion%202.1.1%5D%20.exe)
 ##### (If you see any bugs/glitches or have a suggestion, please let me know so I can fix it in the next update.)  
 
 ## What's new:
 - Fixed Unicode Error
+
 ![](fixedUnicodeError-v2.11.png)
 
 ---------------------------------------------------------  
