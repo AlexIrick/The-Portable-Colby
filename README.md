@@ -6,8 +6,7 @@ A Colby-joke generator that comes with computer help.
 
 ##### The Portable Colby™ is a Colby-joke generator and a computer helper.
 
-The Portable Colby has now been updated to **version 2.1** with well over 2x as much code!
-Now with 60,044 characters and 2,608 lines of code!
+The Portable Colby has now been updated to **version 2.1.1** with 60,039 characters and 2,608 lines of code!
 
 ---------------------------------------------------------
 # Current Version:
